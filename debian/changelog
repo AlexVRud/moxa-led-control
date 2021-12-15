@@ -1,3 +1,11 @@
+moxa-led-control (1.1.1+deb11) UNRELEASED; urgency=medium
+
+  * update to Debian 11
+  * fix linter warnings
+  * update depends to libjson-c5
+
+ -- Alexander Rudalev <a.rudalev@ens.ru>  Tue, 14 Dec 2021 16:39:56 +0300
+
 moxa-led-control (1.1.1+deb10) buster; urgency=low
 
   * Initial Release.

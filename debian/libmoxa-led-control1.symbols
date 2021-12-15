@@ -1,4 +1,5 @@
 libmx_led_ctl.so.1 libmoxa-led-control1 #MINVER#
+* Build-Depends-Package: libmoxa-led-control-dev
  mx_led_init@Base 1.1.1
  mx_led_get_num_of_groups@Base 1.1.1
  mx_led_get_num_of_leds_per_group@Base 1.1.1
